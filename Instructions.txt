@@ -1,0 +1,33 @@
+Run in x86.
+
+All models and lights can be moved and the camera can be moved as well.
+
+TAB:		Looks at the next object;
+LEFT CONTROL:	Looks at the next light.
+
+W		Moves the camera positive on the z axis. (backwards)
+A		Moves the camera negativeon the x axis. (left)
+S		Moves the camera negative on the z axis. (forward)
+D		Moves the camera positive on the x axis. (right)
+Q		Moves the camera positive on the y axis. (up)
+E		Moves the camera negative on the y axis. (down)
+
+8:		Toggles the world between wireframe and not.
+9:		Toggles the world between having lights and none.
+0:		Toggles the world between discard transparency with different texture blend values
+		and normal mode.
+
+
+UP:		Moves the current object up the y axis.
+DOWN:		Moves the current object Down the y axis.
+LEFT:		Moves the current object negative on the x axis.
+RIGHT:		Moves the current object positive on the x axis.
+RIGHT SHIFT:	Moves the current object negative on the z axis.
+NUM PAD 1:	Moves the current object positive on the z axis.
+
+U:		Moves the current light positive on the y axis.
+P:		Moves the current light negative on the y axis.
+J:		Moves the current light negative on the x axis.
+I:		Moves the current light positive on the z axis.
+K:		Moves the current light negative on the z axis.
+L:		Moves the current light positive on the x axis.

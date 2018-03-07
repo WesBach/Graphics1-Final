@@ -1,0 +1,6 @@
+Game Config
+width 1280
+height 768
+Title_Start
+Graphics Project 2!
+Title_End
